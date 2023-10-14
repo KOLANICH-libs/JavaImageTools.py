@@ -1,5 +1,8 @@
 import typing
 from enum import IntEnum
+from warnings import warn
+
+warn("We have moved from M$ GitHub to https://codeberg.org/KOLANICH-libs/JavaImageTools.py, read why on https://codeberg.org/KOLANICH/Fuck-GuanTEEnomo .")
 
 import numpy as np
 from JAbs import ClassesImportSpecT, ClassPathT, SelectedJVMInitializer
